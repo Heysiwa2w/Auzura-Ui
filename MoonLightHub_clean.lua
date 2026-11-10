@@ -1,5 +1,3 @@
--- discord.gg/syncrypt
-
 local CoreGui = game:GetService("CoreGui")
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
